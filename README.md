@@ -6,11 +6,11 @@ An Arduino-based automated irrigation system that uses four sensors to intellige
 
 ##  Abstract
 
-This project presents an automated irrigation system that uses four sensors — soil moisture, temperature and humidity (DHT11), water level, and light intensity (LDR) — connected to an Arduino Uno microcontroller.
+This project presents an automated irrigation system that uses four sensors: soil moisture, temperature and humidity (DHT11), water level, and light intensity (LDR) connected to an Arduino Uno microcontroller.
 
 The system monitors soil dryness, ambient temperature, available water in the tank, and time of day (via light detection) to intelligently control a water pump through a relay module.
 
-The pump activates only when the soil is dry, water is available in the tank, and it is daytime — ensuring efficient and autonomous plant watering without manual intervention.
+The pump activates only when the soil is dry, water is available in the tank, and it is daytime ensuring efficient and autonomous plant watering without manual intervention.
 
 ---
 
