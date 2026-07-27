@@ -1,6 +1,6 @@
 # Smart Automated Irrigation System
 
-An Arduino-based automated irrigation system that uses four sensors to intelligently control a water pump — no manual intervention needed.
+An Arduino-based automated irrigation system that uses four sensors to intelligently control a water pump with no manual intervention needed.
 
 ---
 
@@ -75,7 +75,7 @@ All sensor modules share the Arduino's **5V** and **GND** pins via the breadboar
 
 ---
 
-## 🧪 Sensor Test Values
+## Sensor Test Values
 
 | Sensor | Expected reading |
 |---|---|
@@ -88,9 +88,3 @@ All sensor modules share the Arduino's **5V** and **GND** pins via the breadboar
 | DHT11 | ~25–35°C |
 
 ---
-
-
-
-## 📄 License
-
-MIT License
