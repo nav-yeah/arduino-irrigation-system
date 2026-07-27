@@ -17,13 +17,13 @@ The pump activates only when the soil is dry, water is available in the tank, an
 ##  Project Photos
 
 ![Circuit Diagram](circuit_diagram.png)
-*Circuit diagram*
+
 
 ![Full Setup](setup_1.png)
-*Full hardware setup*
+
 
 ![Working Demo](results.png)
-*System in action*
+
 
 ---
 
